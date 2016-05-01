@@ -71,8 +71,8 @@ public class PaintedPlanks
 	@SideOnly(Side.CLIENT)
 	private void clientInit(FMLInitializationEvent event){
 		// client-only code
-//		paintedblocks.init.Items.registerItemRenders(event);
-//		paintedblocks.init.Blocks.registerItemRenders(event);
+		paintedplanks.init.Items.registerItemRenders(event);
+		paintedplanks.init.Blocks.registerItemRenders(event);
 	}
 	@SideOnly(Side.SERVER)
 	private void serverInit(FMLInitializationEvent event){

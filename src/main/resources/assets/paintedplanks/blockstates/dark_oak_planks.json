@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "white": { "model": "paintedplanks:big_oak_planks" }
+        "orange": { "model": "paintedplanks:big_oak_planks" }
+        "magenta": { "model": "paintedplanks:big_oak_planks" }
+        "light_blue": { "model": "paintedplanks:big_oak_planks" }
+        "yellow": { "model": "paintedplanks:big_oak_planks" }
+        "lime": { "model": "paintedplanks:big_oak_planks" }
+        "pink": { "model": "paintedplanks:big_oak_planks" }
+        "gray": { "model": "paintedplanks:big_oak_planks" }
+        "silver": { "model": "paintedplanks:big_oak_planks" }
+        "cyan": { "model": "paintedplanks:big_oak_planks" }
+        "purple": { "model": "paintedplanks:big_oak_planks" }
+        "blue": { "model": "paintedplanks:big_oak_planks" }
+        "brown": { "model": "paintedplanks:big_oak_planks" }
+	    "green": { "model": "paintedplanks:big_oak_planks" }
+        "red": { "model": "paintedplanks:big_oak_planks" }
+	    "black": { "model": "paintedplanks:big_oak_planks" }
+    }
+}
