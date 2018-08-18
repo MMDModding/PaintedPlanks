@@ -13,7 +13,7 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 		modid = PaintedPlanks.MODID,
 		name = PaintedPlanks.NAME,
 		version = PaintedPlanks.VERSION,
-		dependencies = "required-after:Forge@[12.16.0.1865,)",
+		dependencies = "required-after:Forge@[12.16.1.1887,)",
 		acceptedMinecraftVersions = "1.9",
 //		certificateFingerprint = "",
 		updateJSON = "https://raw.githubusercontent.com/jriwanek/PaintedPlanks/master/update.json")
