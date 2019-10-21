@@ -16,7 +16,7 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 		dependencies = "required-after:Forge@[12.16.1.1887,)",
 		acceptedMinecraftVersions = "1.9",
 //		certificateFingerprint = "",
-		updateJSON = "https://raw.githubusercontent.com/jriwanek/PaintedPlanks/master/update.json")
+		updateJSON = "https://raw.githubusercontent.com/MinecraftModDevelopmentMods/PaintedPlanks/master/update.json")
 public class PaintedPlanks
 {
 	public static PaintedPlanks INSTANCE = null;
